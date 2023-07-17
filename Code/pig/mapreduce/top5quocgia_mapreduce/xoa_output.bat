@@ -1,0 +1,1 @@
+hdfs dfs -rm -r /pig_output/top5quocgia
